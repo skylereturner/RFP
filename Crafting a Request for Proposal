@@ -9,13 +9,14 @@ Project Objectives:
 
 Reliable wireless coverage has to be better than it is now. In a lot of spots in our store we do not have network coverages or the wifi signal is very week due to the expansion of the store and not updating the access points
 We neeed better performance out of our network and in the expansion part of our building we need better coverage in that portion of our stores. We will also need to update the current wifi coverage in the exsisting store because in some spots the wifi cuts out.
-f
-Improved performance
-Stronger security
-Support for many simultaneous connections
-Centralized monitoring and management
+We also need better security in our network. Our main network that the employees use and the wireless network is not the same subnet. We would like to segement our network into multiple subnets and VLANS to protect our internal network that employees use. We would also like to integrate some ACL rules so that our customers cannot access inappropriete websites and reduce bandwidth so customers can't download or upload anything so, they have less power
+If our network bandwidth slows down or if any network components slows down or overheats we would like to implement a network and server monitoring to know what is going on with our equipment
+Our network should be designed in a way that furture network growth is in mind
 
 Scope of Work:
+We have lost the documents to our original wireless site survey. The store will have to be re surveyed for the wireless network coverage. We know some spots do not have network coverage.
+The access point placement will be on the bottom side of the roof so that it is visiable in the store. We will be using the the 2.4 GHz because we need the signal to penetrate the shelves of food. We would like the access points to be 
+
 Wireless site survey
 Access point placement
 Installation and configuration
