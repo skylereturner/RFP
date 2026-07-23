@@ -26,6 +26,9 @@ We would be interested for ongoing support after IT-help is done with configurin
 Technical Requirements:
 Our current environment is using wi-fi 5. We would like to increase our router to the newer model being wi-fi 6. Wi-fi 6e is to expensive for what the benefits is for us so, we will skip it for now.
 The authentication protocol we would like to upgrade to will be wpa3- personal. Currently we are running wpa-2 personal which in this current environment is outdated and needing an upgrade
+We want to isolate the the guest network from the main employee network. For the guest network we would like to use a /23 network. This allows 510 IP addresses allowing more than enough.
+We would like to implement VLANS on our guest network. We would like a guest, management, data and voice VLAN.
+Priviously We were going to create a monitoring systems. We would also like to implement a reporting system based on the monitoring system as well.
 
 Wi-Fi 6 or newer
 WPA3
