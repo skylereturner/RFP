@@ -33,12 +33,20 @@ We would like the network to be scalable. In the future we might upsize again if
 We expected around 250 users/device as a max during peak hours typically around 200-215 as a baseline average
 
 Deliverables:
+Site survey report:
+Pick a spot to put the access points based on a heat map range
+run wires through the attic towards the switch in the network closet
+Create subnets to seperate guests and employee network access
+Create VLANS on the guest network to segment the individual proccess on the network
+check the heat map to confirm that all places in store has connection to access points
+confirm the access points work and pinging the internet is possible
 
-Site survey report
 Wireless network design
+
 Installed and configured access points
 Network diagram
 Test results
+Connecting to each access point will give the user internet
 Administrator guide
 Support plan
 
