@@ -20,19 +20,13 @@ Before installation we would like the access points to be fully updated and docu
 After stringing the ethernet cable to the roof it should travel to the network closet where we have our network equipment. Once it gets to the right area on the roof attic you can string it down to a switch.
 Our security configuration will be wpa-3 personal, we do not have a radius server to authenticate users at this current moment so we are forced to go with the personal
 To validate or test the network we will give you access to the network so ping or traceroute commands can be performed.
-On our central server we have made a file server and the IT guys will have access to the shared file on either their devices or we can give them laptops to access the file server/
-We expect 
-
-Wireless site survey
-Access point placement
-Installation and configuration
-Integration with the wired network
-Security configuration
-Testing
-Documentation
-Ongoing maintenance and support
+On our central server we have made a file server and the IT-help will have access to the shared file on either their devices or we can give them laptops to access the file server/
+We would be interested for ongoing support after IT-help is done with configuring the wireless network for basic maintenance and support for out wireless network.
 
 Technical Requirements:
+Our current environment is using wi-fi 5. We would like to increase our router to the newer model being wi-fi 6. Wi-fi 6e is to expensive for what the benefits is for us so, we will skip it for now.
+The authentication protocol we would like to upgrade to will be wpa3- personal. Currently we are running wpa-2 personal which in this current environment is outdated and needing an upgrade
+
 Wi-Fi 6 or newer
 WPA3
 Guest network isolation
