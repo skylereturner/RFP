@@ -15,7 +15,13 @@ Our network should be designed in a way that furture network growth is in mind
 
 Scope of Work:
 We have lost the documents to our original wireless site survey. The store will have to be re surveyed for the wireless network coverage. We know some spots do not have network coverage.
-The access point placement will be on the bottom side of the roof so that it is visiable in the store. We will be using the the 2.4 GHz because we need the signal to penetrate the shelves of food. We would like the access points to be 
+The access point placement will be on the bottom side of the roof so that it is visiable in the store. We will be using the the 2.4 GHz because we need the signal to penetrate the shelves of food. We would like the access points to be 10 to 15 meters away, in particular we would like about 10-20% overlap so there is not random cracks in between the access points without internet access.
+Before installation we would like the access points to be fully updated and documented. When installing the access point first clean the roof where the access point will be. When installing the access point lie it flat against the roof and string the cat 6 ethernet cables into the roof to connect to the main network closet.
+After stringing the ethernet cable to the roof it should travel to the network closet where we have our network equipment. Once it gets to the right area on the roof attic you can string it down to a switch.
+Our security configuration will be wpa-3 personal, we do not have a radius server to authenticate users at this current moment so we are forced to go with the personal
+To validate or test the network we will give you access to the network so ping or traceroute commands can be performed.
+On our central server we have made a file server and the IT guys will have access to the shared file on either their devices or we can give them laptops to access the file server/
+We expect 
 
 Wireless site survey
 Access point placement
