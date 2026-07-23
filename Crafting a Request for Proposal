@@ -29,16 +29,11 @@ The authentication protocol we would like to upgrade to will be wpa3- personal. 
 We want to isolate the the guest network from the main employee network. For the guest network we would like to use a /23 network. This allows 510 IP addresses allowing more than enough.
 We would like to implement VLANS on our guest network. We would like a guest, management, data and voice VLAN.
 Priviously We were going to create a monitoring systems. We would also like to implement a reporting system based on the monitoring system as well.
-
-Wi-Fi 6 or newer
-WPA3
-Guest network isolation
-VLAN integration
-Monitoring and reporting
-Scalability
-Support for the expected number of users and devices
+We would like the network to be scalable. In the future we might upsize again if we continue to grow so, we requrire the network to be scalable
+We expected around 250 users/device as a max during peak hours typically around 200-215 as a baseline average
 
 Deliverables:
+
 Site survey report
 Wireless network design
 Installed and configured access points
