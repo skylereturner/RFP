@@ -36,6 +36,8 @@ Deliverables:
 Site survey report:
 Pick a spot to put the access points based on a heat map range
 run wires through the attic towards the switch in the network closet
+confirm the access points turns on and gives out the wifi signal
+Configure the SSID and password to match main router
 Create subnets to seperate guests and employee network access
 Create VLANS on the guest network to segment the individual proccess on the network
 check the heat map to confirm that all places in store has connection to access points
@@ -48,6 +50,7 @@ Network diagram
 Test results
 Connecting to each access point will give the user internet
 Administrator guide
+
 Support plan
 
 Timeline and Pricing:
