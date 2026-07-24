@@ -44,11 +44,13 @@ check the heat map to confirm that all places in store has connection to access 
 confirm the access points work and pinging the internet is possible
 
 Wireless network design
-
+Our wireless network will be connected by the users via the access points being set up. The user will be put into their own VLAN so they do not have connection to any other important process on the network
 Installed and configured access points
+We want a total of nine access points installed on the inside roof of the store. We would like it to be set up in a way where each part of the store has access to the network and have a strong connection
 Network diagram
+Our network diagram will consist of the access points and the location of each access point. The diagram will show the exact route the cables go to the main networking closet. It will include a logical, physical and ip route/table 
 Test results
-Connecting to each access point will give the user internet
+Connecting to each access point will give the user internet securely
 Administrator guide
 
 Support plan
