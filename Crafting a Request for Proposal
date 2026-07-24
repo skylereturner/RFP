@@ -52,7 +52,13 @@ Our network diagram will consist of the access points and the location of each a
 Test results
 Connecting to each access point will give the user internet securely
 Administrator guide
-
+First document the Mac address and IP address for each access point.
+Update each access point so the firmware is in the correct version
+Complete the configuration so the access point can work as intended
+string all of the wires the access points needes to work ex: power and ethernet cable
+Install the access point onto the inside of the roof of the building
+plug the access point to the previously configured wire
+test on confirm that the access point installed fully works and gives the right signal and users can access the network and internet
 Support plan
 
 Timeline and Pricing:
