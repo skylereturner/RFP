@@ -71,13 +71,14 @@ Project completion date: 8/26/2026
 Initial and ongoing costs: Initail: $5000 Ongoing: $300  
 
 # Evaluation Criteria:  
-Category: 	Weight  
-Technical solution: 40%  
-Security: 25%  
-Implementation plan: 10%  
-Vendor experience: 10%  
-Price: 15%  
-Total 	100%  
+| Category | Weight | 
+| :---: | :---: |
+| Technical solution |  40% |  
+|Security| 25%|  
+|Implementation plan |10%|  
+|Vendor experience |10%|  
+|Price| 15%|  
+|Total| 	100%|  
 
 # Submission and Terms:
 We expect submissions to be in by 7/31/2026 and we would like a breakdown of the person or team who is doing the installation what their credentials are and why they were chosen for this particular job.   
