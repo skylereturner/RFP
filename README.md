@@ -33,7 +33,7 @@ We would like the network to be scalable. In the future we might upsize again if
 We expected around 250 users/device as a max during peak hours typically around 200-215 as a baseline average.  
 
 # Deliverables:
-###Site survey report:  
+### Site survey report:  
 Pick a spot to put the access points based on a heat map range  
 run wires through the attic towards the switch in the network closet  
 confirm the access points turns on and gives out the wifi signal  
