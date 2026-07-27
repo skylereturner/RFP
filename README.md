@@ -1,1 +1,1 @@
-This repository is about the upgrades, policies and information about the network expansion for the company TurnerMart. This is primarily for any IT company who would like to partener with us to make the upgrades come to fruition.
+
