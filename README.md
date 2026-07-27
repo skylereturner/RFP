@@ -33,7 +33,7 @@ We would like the network to be scalable. In the future we might upsize again if
 We expected around 250 users/device as a max during peak hours typically around 200-215 as a baseline average.  
 
 # Deliverables:
-Site survey report:  
+###Site survey report:  
 Pick a spot to put the access points based on a heat map range  
 run wires through the attic towards the switch in the network closet  
 confirm the access points turns on and gives out the wifi signal  
@@ -43,15 +43,15 @@ Create VLANS on the guest network to segment the individual proccess on the netw
 check the heat map to confirm that all places in store has connection to access points  
 confirm the access points work and pinging the internet is possible  
 
-# Wireless network design:
+### Wireless network design:
 Our wireless network will be connected by the users via the access points being set up. The user will be put into their own VLAN so they do not have connection to any other important process on the employee network.  
 Installed and configured access points
 We want a total of nine access points installed on the inside roof of the store. We would like it to be set up in a way where each part of the store has access to the network and have a strong connection.  
 Network diagram
 Our network diagram will consist of the access points and the location of each access point. The diagram will show the exact route the cables go to the main networking closet. It will include a logical, physical and ip route/table .    
-# Test results:
+### Test results:
 Connecting to each access point will give the user internet securely  
-# Administrator guide 
+### Administrator guide 
 First document the Mac address and IP address for each access point.  
 Update each access point so the firmware is in the correct version  
 Complete the configuration so the access point can work as intended  
@@ -59,7 +59,7 @@ string all of the wires the access points needes to work ex: power and ethernet 
 Install the access point onto the inside of the roof of the building  
 plug the access point to the previously configured wire  
 test on confirm that the access point installed fully works and gives the right signal and users can access the network and internet.  
-# Support plan  
+### Support plan  
 We have a support plan for the network administrators, we have air conditioning in the building, there is washrooms that they can use and there is a water perifier so they can get water. We also have a breakroom with a fridge and microwave so the administrators can refrigerate food and heat it up while sitting down.  
 # Timeline and Pricing:
 The network administrators will have three days to complete the project and test to see if the access points function as intended. THe pricing will be $1000 a day to complete it.  
@@ -70,28 +70,28 @@ Installation and testing period: 8/20/2026 and 8/23/2026
 Project completion date: 8/26/2026  
 Initial and ongoing costs: Initail: $5000 Ongoing: $300  
 
-Evaluation Criteria:
-Category: 	Weight
-Technical solution: 40%
-Security: 25%
-Implementation plan: 10%
-Vendor experience: 10%
-Price: 15%
-Total 	100%
+# Evaluation Criteria:  
+Category: 	Weight  
+Technical solution: 40%  
+Security: 25%  
+Implementation plan: 10%  
+Vendor experience: 10%  
+Price: 15%  
+Total 	100%  
 
-Submission and Terms:
+# Submission and Terms:
 We expect submissions to be in by 7/31/2026 and we would like a breakdown of the person or team who is doing the installation what their credentials are and why they were chosen for this particular job.   
-Submission format  
+### Submission format  
 The submission format will be in portable document format.  
-Contact information  
+### Contact information  
 If you have any furthur inquires about the network or about the proccess contact 111-111-1111 for support or help.  
-Late-submission policy  
+### Late-submission policy  
 If any documents are late or not on time the contract will be terminated and we will not go through with creating the infraustructure with your team/company.  
-Confidentiality  
+### Confidentiality  
 We expect that the network information and confidential information about our processes to be respected and not shared or distributed to any company, agency or persons.  
-Support expectations  
+### Support expectations  
 We expect that basic IT support will be offered if the network goes or if an IT related problem occurs before the 8/31/2026 date.  
-Change-control process  
+### Change-control process  
 We expect at 8/31/2026 the change-control process will occur giving us full access to the network and issue regarding the network will be delt by our company.  
-Contract duration  
+### Contract duration  
 The contract will be from 8/1/2026 to 8/31/2026.  
